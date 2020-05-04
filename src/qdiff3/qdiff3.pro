@@ -40,7 +40,7 @@ SOURCES  = main.cpp                      \
            stable.cpp                    \
            kreplacements/kreplacements.cpp \
            kreplacements/ShellContextMenu.cpp
-TARGET   = kdiff3
+TARGET   = qdiff3
 INCLUDEPATH += . ./kreplacements
 
 win32 {
